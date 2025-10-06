@@ -50,4 +50,4 @@ Cloud & container orchestration
 
 ---
 
-✨ *Always learning, always building.*  
+
