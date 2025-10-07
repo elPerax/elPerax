@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samuel Reyes Cifuentes
 
-🎓 5th semester Computer Sciece student at Champlain College Saint-Lambert  
+🎓 5th semester Computer Science student at Champlain College Saint-Lambert  
 💻 Passionate about full-stack development, mobile apps, cloud, IoT & DevOps  
 🚀 Currently working on:
 - **MANA App**: Cross-platform Flutter + Spring Boot app for a Montreal non-profit  
